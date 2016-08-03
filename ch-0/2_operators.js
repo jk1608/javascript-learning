@@ -16,6 +16,10 @@ var identityTrue = 20 === 20;
 
 var identityFalse = 20 === 10;
 
+var negate = !false;
+
+var noIdentity = 20 !== 10;
+
 console.log('\n**********************************');
 
 console.log(sum);
@@ -31,6 +35,10 @@ console.log(divide);
 console.log(identityTrue);
 
 console.log(identityFalse);
+
+console.log(negate);
+
+console.log(noIdentity);
 
 console.log('**********************************');
 
