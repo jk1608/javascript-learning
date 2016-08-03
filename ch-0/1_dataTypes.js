@@ -18,6 +18,8 @@ object.model = 'alto';
 
 object.make = 2016;
 
+console.log('\n**********************************');
+
 console.log(boolean);
 
 console.log(string);
@@ -27,5 +29,9 @@ console.log(number);
 console.log(array);
 
 console.log(object);
+
+console.log('**********************************');
+
+
 
 
