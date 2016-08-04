@@ -16,4 +16,5 @@ console.log(null*40); // null evaluates to 0
 console.log(x+40);
 console.log(x*40);
 console.log(x);
+
 console.log('**********************************');
